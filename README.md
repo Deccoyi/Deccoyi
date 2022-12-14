@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **@Deccoyi**
 - 🌱 I’m currently learning javascript, react and python
-- 💞️ I make/will make videos about code related topics.
 - 📫 You can react me with @Deccoyi on most socials.
 
 <!---
